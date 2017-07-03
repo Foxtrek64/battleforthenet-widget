@@ -41,7 +41,7 @@ you can pass some properties in to customize the default behavior.
 <script src="https://widget.battleforthenet.com/widget.js" async></script>
 ```
 
-### Theming:
+##### Theming:
 
 If you would like to apply one of the themes to your modal, use the code below:
 
