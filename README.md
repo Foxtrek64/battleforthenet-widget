@@ -36,21 +36,10 @@ you can pass some properties in to customize the default behavior.
 
 ```html
 <script type="text/javascript">
-    var _bftn_options = {};
-</script>
-<script src="https://widget.battleforthenet.com/widget.js" async></script>
-```
-
-##### Theming:
-
-If you would like to apply one of the themes to your modal, use the code below:
-
-```html
-<script type="text/javascript">
     var _bftn_options = {
-        theme: 'slow' // Choose from 'money', 'stop', and 'slow'
+        theme: 'slow' // Choose from 'money', 'stop', and 'slow'. Remove this property to get the default theme.
 };
-</script>
+<script src="https://widget.battleforthenet.com/widget.js" async></script>
 ```
 
 MORE DETAILS COMING SOON
